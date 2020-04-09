@@ -1,0 +1,25 @@
+{"value":true,"_id":"autoplay"}
+{"value":true,"_id":"autoplayPlaylists"}
+{"_id":"bounds","value":{"x":964,"y":69,"width":945,"height":976,"maximized":false}}
+{"value":false,"_id":"debugMode"}
+{"_id":"defaultProfile","value":"All Channels"}
+{"value":true,"_id":"distractionFreeMode"}
+{"value":false,"_id":"hideWatchedSubs"}
+{"value":true,"_id":"history"}
+{"value":"https://invidio.us","_id":"invidious"}
+{"value":true,"_id":"localScrape"}
+{"value":false,"_id":"playNextVideo"}
+{"value":"dash","_id":"player"}
+{"_id":"profileList","value":[{"name":"All Channels","color":"#304FFE"}]}
+{"value":"SOCKS5://127.0.0.1:9050","_id":"proxy"}
+{"value":false,"_id":"proxyVideos"}
+{"value":"480","_id":"quality"}
+{"value":"1","_id":"rate"}
+{"value":"US","_id":"region"}
+{"value":"subscriptions","_id":"startScreen"}
+{"value":false,"_id":"subtitles"}
+{"value":"dark","_id":"theme"}
+{"value":false,"_id":"updates"}
+{"value":false,"_id":"useTor"}
+{"value":"grid","_id":"videoView"}
+{"value":"1","_id":"volume"}

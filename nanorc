@@ -1,0 +1,58 @@
+include   "/var/http/usrs/local/share/nano/*.nanorc"
+
+set       autoindent
+set       constantshow
+set       cutfromcursor
+set       linenumbers
+set       multibuffer
+set       regexp
+set       tabsize 2
+set       tabstospaces
+
+unbind    ^N                all
+unbind    ^R                all
+bind      ^O    insert      all
+bind      ^S    writeout    all
+
+unbind    ^Q                all
+bind      ^D    exit        all
+
+unbind    ^K                all
+unbind    ^U                all
+bind      ^C    copy        all
+bind      ^X    cut         all
+bind      ^V    paste       all
+
+bind      ^F    whereis     all
+bind      ^G    findnext    all
+
+bind      F1    help        all
+unbind    F2                all
+unbind    F3                all
+unbind    F5                all
+unbind    F6                all
+unbind    F7                all
+unbind    F8                all
+unbind    F9                all
+unbind    F10               all
+unbind    F11               all
+unbind    F12               all
+
+unbind    M-U               all
+unbind    M-E               all
+bind      ^Z    undo        all
+bind      ^Y    redo        all
+
+unbind    ^G                all
+bind      ^W    cancel      all
+bind      M-N   nextbuf     all
+bind      M-P   prevbuf     all
+
+bind      ^A    home        all
+bind      ^E    end         all
+
+bind      ^G    gotoline    all
+bind      M-M   comment     all
+bind      M-W   wordcount   all
+
+unbind    ^T                all

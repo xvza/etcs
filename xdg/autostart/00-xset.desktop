@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=utilities-terminal
+Type=Application
+Name=Xrandr
+Comment=Set Xrandr
+Exec=/var/http/usrs/local/bin/display/xset.sh

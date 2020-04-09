@@ -1,0 +1,16 @@
+file:///home/_USER/.config local home config
+file:///home/_USER/.local/share local home share
+file:///etc/xdg local etc xdg
+file:///etc local etc
+file:///usr/share/icons local icons
+file:///usr/share/themes local themes
+file:///var/http/etcs/skel/.config remot home config
+file:///var/http/etcs/skel/.local/share remot home share
+file:///var/http/devs remot devs
+file:///var/http/list remot list
+file:///var/http/srcs remot srcs
+file:///var/http/trsh remot trsh
+file:///var/http/etcs remot etcs
+file:///var/http/etcs/xdg remot etcs xdg
+file:///var/http/usrs/local/bin remot usrs bin
+file:///var/http/usrs/local/share remot usrs share
