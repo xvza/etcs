@@ -1,6 +1,6 @@
 {"value":true,"_id":"autoplay"}
 {"value":true,"_id":"autoplayPlaylists"}
-{"_id":"bounds","value":{"x":964,"y":69,"width":945,"height":976,"maximized":false}}
+{"_id":"bounds","value":{"x":7,"y":50,"width":958,"height":992,"maximized":false}}
 {"value":false,"_id":"debugMode"}
 {"_id":"defaultProfile","value":"All Channels"}
 {"value":true,"_id":"distractionFreeMode"}
@@ -9,7 +9,7 @@
 {"value":"https://invidio.us","_id":"invidious"}
 {"value":true,"_id":"localScrape"}
 {"value":false,"_id":"playNextVideo"}
-{"value":"dash","_id":"player"}
+{"value":"embed","_id":"player"}
 {"_id":"profileList","value":[{"name":"All Channels","color":"#304FFE"}]}
 {"value":"SOCKS5://127.0.0.1:9050","_id":"proxy"}
 {"value":false,"_id":"proxyVideos"}
@@ -23,3 +23,4 @@
 {"value":false,"_id":"useTor"}
 {"value":"grid","_id":"videoView"}
 {"value":"1","_id":"volume"}
+{"_id":"bounds","value":{"x":8,"y":51,"width":958,"height":992,"maximized":false}}
