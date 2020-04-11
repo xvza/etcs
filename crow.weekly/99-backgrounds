@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+############################################################
+declare   "url=https://source.unsplash.com/${MODE}/?${NEED}"
+declare   "path=org.gnome.desktop.background"
+declare   "key=picture-uri"
+############################################################
+source    "net2.sh"  "${IMG}"  "${url}"  "${IMG}"
+############################################################
+eval      "feh --bg-fill --no-fehbg ${IMG}"
+eval      "gsettings set ${path} ${key} ${IMG}"
+############################################################
