@@ -6,5 +6,5 @@ export    "EDITOR=nano"
 ################################
 export    "MODE=1920x1080"
 export    "SKEL=/etc/skel"
-export    "SHARE=/var/http/shrd"
+export    "SHRD=/var/http/shrd"
 ################################
