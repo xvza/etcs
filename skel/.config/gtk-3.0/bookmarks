@@ -9,6 +9,7 @@ file:///var/http/etcs/skel/.config remot home config
 file:///var/http/etcs/skel/.local/share remot home share
 file:///var/http/devs remot devs
 file:///var/http/list remot list
+file:///var/http/shrd remot shrd
 file:///var/http/srcs remot srcs
 file:///var/http/srcs/bin remot srcs bin
 file:///var/http/trsh remot trsh
