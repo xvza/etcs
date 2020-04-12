@@ -16,4 +16,4 @@ file:///var/http/trsh remot trsh
 file:///var/http/etcs remot etcs
 file:///var/http/etcs/xdg remot etcs xdg
 file:///var/http/etcs/profile.d remot etcs profile
-file:///var/http/usrs/local/share remot usrs share
+file:///var/http/usrs/share remot usrs share
