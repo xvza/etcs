@@ -3,4 +3,4 @@ Icon=utilities-terminal
 Type=Application
 Name=polybar
 Comment=Launch Polybar
-Exec=/var/http/usrs/local/bin/panel/polybar.sh
+Exec=/var/http/srcs/bin/polybar.sh
