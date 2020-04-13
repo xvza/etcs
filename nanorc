@@ -1,4 +1,4 @@
-include   "/var/http/usrs/local/share/nano/*.nanorc"
+include   "/var/http/shrd/nano/*.nanorc"
 
 set       autoindent
 set       constantshow
