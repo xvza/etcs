@@ -3,4 +3,4 @@ Icon=utilities-terminal
 Type=Application
 Name=Redshift
 Comment=Launch Redshift
-Exec=/var/http/usrs/local/bin/color/redshift.sh
+Exec=redshift.sh

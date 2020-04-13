@@ -3,4 +3,4 @@ Icon=utilities-terminal
 Type=Application
 Name=Sxhkd
 Comment=Launch Sxhkd
-Exec=/var/http/usrs/local/bin/hotkey/sxhkd.sh
+Exec=sxhkd.sh

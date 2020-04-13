@@ -3,4 +3,4 @@ Icon=utilities-terminal
 Type=Application
 Name=Xrdb
 Comment=Set Xrdb
-Exec=/var/http/srcs/bin/xrdb.sh
+Exec=xrdb.sh
