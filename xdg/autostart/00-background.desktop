@@ -3,4 +3,4 @@ Icon=utilities-terminal
 Type=Application
 Name=Wallpaper Downloader
 Comment=Download Wallpaper
-Exec=feh --bg-fill --no-fehbg /etc/skel/Picture/_.jpg
+Exec=background.sh
