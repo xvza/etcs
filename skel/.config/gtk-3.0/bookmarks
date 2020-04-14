@@ -11,7 +11,8 @@ file:///var/http/devs remot devs
 file:///var/http/list remot list
 file:///var/http/shrd remot shrd
 file:///var/http/srcs remot srcs
-file:///var/http/srcs/bin remot srcs bin
+file:///var/http/srcs/axdg remot srcs axdg
+file:///var/http/srcs/bash remot srcs bash
 file:///var/http/trsh remot trsh
 file:///var/http/etcs remot etcs
 file:///var/http/etcs/xdg remot etcs xdg
