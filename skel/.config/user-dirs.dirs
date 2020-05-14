@@ -1,0 +1,6 @@
+XDG_DESKTOP_DIR=""
+XDG_DOCUMENTS_DIR="/etc/skel/Documents"
+XDG_DOWNLOAD_DIR="/etc/skel/Downloads"
+XDG_MUSIC_DIR="/etc/skel/Music"
+XDG_PICTURES_DIR="/etc/skel/Pictures"
+XDG_VIDEOS_DIR=""
