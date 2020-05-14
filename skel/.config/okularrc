@@ -1,0 +1,14 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 900=835
+State=AAAA/wAAAAD9AAAAAAAABkAAAAL/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1600
+
+[Recent Files]
+File1[$e]=/etc/skel/Picture/_.jpg
+File2[$e]=/etc/skel/Document/sign.png
+Name1[$e]=_.jpg
+Name2[$e]=sign.png
