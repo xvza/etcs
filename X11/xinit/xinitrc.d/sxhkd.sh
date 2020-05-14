@@ -1,1 +1,0 @@
-/var/http/srcs/autostart.d/sxhkd.sh
