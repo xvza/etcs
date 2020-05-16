@@ -8,11 +8,12 @@ Serif Font=Noto Sans
 Standard Font=Noto Sans
 
 [Archive]
-ArchiveMode=disableArchiving
+ArchiveMode=limitArticleAge
 Do Not Expire Important Articles=false
+Max Article Age=20
 
 [ConfigurePluginsWidget]
-splitter=49,49
+splitter=268,268
 
 [General]
 ArticleListFeedHeaders=
@@ -31,11 +32,13 @@ Recent Files[$e]=feed.xml,file:$HOME/feed.xml
 detailViewIconSize=0
 
 [MainWindow]
+Height 1080=480
 Height 900=835
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABkAAAAMEAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1600=1600
+Width 1920=766
+Window-Maximized 1080x1920=true
 
 [Migratekde4]
 Version=1
@@ -45,6 +48,6 @@ Disable delete folder confirmation=false
 
 [View]
 Show Quick Filter=false
-Splitter 1 Sizes=182,1417
-Splitter 2 Sizes=446,970
+Splitter 1 Sizes=218,1701
+Splitter 2 Sizes=535,1165
 View Mode=1
