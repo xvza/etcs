@@ -2,6 +2,22 @@
     "roots": {
         "bookmark_bar": {
             "children": [
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "KDE UserBase Wiki",
+                    "type": "url",
+                    "url": "https://userbase.kde.org/Welcome_to_KDE_UserBase",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "KDE's Applications",
+                    "type": "url",
+                    "url": "https://kde.org/applications/",
+                    "visit_count": 0
+                }
             ],
             "description": "Bookmarks located in Bookmarks Toolbar",
             "expanded": true,
@@ -11,6 +27,22 @@
         },
         "bookmark_menu": {
             "children": [
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Bastide [FR] un City Builder médiéval inspiré de banished.. avec du combat! - Invidious",
+                    "type": "url",
+                    "url": "https://invidious.snopyta.org/watch?v=W4woX1_QY1A",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Khaos Farbauti Ibn Oblivion - Invidious",
+                    "type": "url",
+                    "url": "https://invidio.us/channel/UCsRIv1fsbnQRIPKmUQbRzZg",
+                    "visit_count": 0
+                }
             ],
             "description": "Bookmarks located in Bookmarks Menu",
             "expanded": true,
@@ -23,25 +55,9 @@
                 {
                     "description": "",
                     "keyword": "",
-                    "name": "Mayday , Danger Dans Le Ciel Saison 2 Streaming | Serie Streaming Watch",
+                    "name": "Mayday , Danger Dans Le Ciel Saison 3 Streaming | Serie Streaming Watch",
                     "type": "url",
-                    "url": "https://streaming-series.me/mayday-danger-dans-le-ciel-saison-2-streaming/7/",
-                    "visit_count": 0
-                },
-                {
-                    "description": "",
-                    "keyword": "",
-                    "name": "Khaos Farbauti Ibn Oblivion - Invidious",
-                    "type": "url",
-                    "url": "https://invidio.us/channel/UCsRIv1fsbnQRIPKmUQbRzZg",
-                    "visit_count": 0
-                },
-                {
-                    "description": "",
-                    "keyword": "",
-                    "name": "Bastide [FR] un City Builder médiéval inspiré de banished.. avec du combat! - Invidious",
-                    "type": "url",
-                    "url": "https://invidious.snopyta.org/watch?v=W4woX1_QY1A",
+                    "url": "https://streaming-series.me/mayday-danger-dans-le-ciel-saison-3-streaming/4/",
                     "visit_count": 0
                 }
             ],
