@@ -61,7 +61,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
-PreloadWeight=97
+PreloadWeight=100
 
 [Containments][2][Applets][3][Configuration][ConfigDialog]
 DialogHeight=540
@@ -69,6 +69,7 @@ DialogWidth=720
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
+menuItems=application:t,computer:t,used:t,leave:t,oftenUsed:f,bookmark:f
 
 [Containments][2][Applets][3][Configuration][Shortcuts]
 global=Alt+F1
@@ -81,7 +82,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][6][Configuration]
-PreloadWeight=0
+PreloadWeight=2
 SystrayContainmentId=7
 
 [Containments][2][Applets][8]
@@ -136,7 +137,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][7][Applets][12][Configuration]
-PreloadWeight=0
+PreloadWeight=12
 
 [Containments][7][Applets][13]
 immutability=1
@@ -210,4 +211,4 @@ knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.pla
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=
+screenMapping=desktop:/fourniture,0,desktop:/samsah,0,desktop:/technic,0,desktop:/series,0,desktop:/personal,0
