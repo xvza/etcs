@@ -1,7 +1,16 @@
+[FileDialogSize]
+Height 617=418
+Width 1097=594
+
 [General Options]
 ShowMenuBar=true
-ShowPath=false
+ShowPath=true
 ShowStatusBar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=add,file:///media/used/18ae2b5a-c35c-4530-856e-936a82e5045d/var/http/srcs/program.d/apt.sh,file:///var/http/srcs/program.d/dnf.sh,file:///var/http/srcs/program.d/apt.sh,file:///media/used/18ae2b5a-c35c-4530-856e-936a82e5045d/var/http/list/pkgs/pacman/add
+Recent URLs[$e]=file:///media/used/18ae2b5a-c35c-4530-856e-936a82e5045d/var/http/srcs/program.d/
+detailViewIconSize=0
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -14,9 +23,9 @@ Encoding=UTF-8
 End of Line=0
 Indent On Backspace=true
 Indent On Tab=true
-Indent On Text Paste=false
+Indent On Text Paste=true
 Indentation Mode=normal
-Indentation Width=4
+Indentation Width=2
 Keep Extra Spaces=false
 Line Length Limit=10000
 Newline at End of File=true
@@ -32,7 +41,7 @@ Swap Directory=
 Swap File Mode=1
 Swap Sync Interval=15
 Tab Handling=2
-Tab Width=4
+Tab Width=2
 Trailing Marker Size=1
 Word Wrap=false
 Word Wrap Column=80
@@ -43,14 +52,14 @@ Fallback Encoding=ISO 8859-15
 
 [KTextEditor Renderer]
 Animate Bracket Matching=false
-Schema=Normal
+Schema=KDE
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
 Word Wrap Marker=false
 
 [KTextEditor View]
 Allow Mark Menu=true
-Auto Brackets=false
+Auto Brackets=true
 Auto Center Lines=0
 Auto Completion=true
 Backspace Remove Composed Characters=false
@@ -63,21 +72,21 @@ Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
 Dynamic Wrap not at word boundaries=false
 Fold First Line=false
-Folding Bar=true
-Folding Preview=true
+Folding Bar=false
+Folding Preview=false
 Icon Bar=false
 Input Mode=0
 Keyword Completion=true
 Line Modification=false
-Line Numbers=false
+Line Numbers=true
 Maximum Search History Size=100
 Mouse Paste At Cursor Position=false
 Persistent Selection=false
 Scroll Bar Marks=false
 Scroll Bar Mini Map All=true
 Scroll Bar Mini Map Width=60
-Scroll Bar MiniMap=true
-Scroll Bar Preview=true
+Scroll Bar MiniMap=false
+Scroll Bar Preview=false
 Scroll Past End=false
 Search/Replace Flags=140
 Show Line Count=false
@@ -96,27 +105,30 @@ Word Completion Remove Tail=true
 Search History=4,2
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1080=977
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA8AAAAOrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1920=960
 
 [Recent Files]
-File1[$e]=$HOME/.config/plasmashellrc
-File10[$e]=/var/http/etcs/skel/.config/akregatorrc
-File2[$e]=$HOME/.config/plasmarc
-File3[$e]=$HOME/.config/ksplashrc
-File4[$e]=$HOME/.config/kwinrc
-File5[$e]=$HOME/.config/kscreenlockerrc
-File6[$e]=$HOME/.config/kdeglobals
-File7[$e]=$HOME/.config/falkonrc
-File8[$e]=$HOME/.config/dolphinrc
-File9[$e]=$HOME/.config/kwriterc
-Name1[$e]=plasmashellrc
-Name10[$e]=akregatorrc
-Name2[$e]=plasmarc
-Name3[$e]=ksplashrc
-Name4[$e]=kwinrc
-Name5[$e]=kscreenlockerrc
-Name6[$e]=kdeglobals
-Name7[$e]=falkonrc
-Name8[$e]=dolphinrc
-Name9[$e]=kwriterc
+File1[$e]=/media/used/REMOTE/xvza/srcs/program.d/apt.sh
+File10[$e]=$HOME/.config/kwinrc
+File2[$e]=/media/used/REMOTE/xvza/srcs/program.d/pacman.sh
+File3[$e]=/media/used/REMOTE/xvza/srcs/packages.d/vali.sh
+File4[$e]=/media/used/REMOTE/xvza/srcs/packages.d/cont.sh
+File5[$e]=/media/used/REMOTE/xvza/srcs/shell.d/function/prog.sh
+File6[$e]=$HOME/.config/kwriterc
+File7[$e]=$HOME/.config/kxkbrc
+File8[$e]=$HOME/.config/systemsettingsrc
+File9[$e]=$HOME/.config/plasmashellrc
+Name1[$e]=apt.sh
+Name10[$e]=kwinrc
+Name2[$e]=pacman.sh
+Name3[$e]=vali.sh
+Name4[$e]=cont.sh
+Name5[$e]=prog.sh
+Name6[$e]=kwriterc
+Name7[$e]=kxkbrc
+Name8[$e]=systemsettingsrc
+Name9[$e]=plasmashellrc
