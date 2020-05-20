@@ -10,3 +10,6 @@ source      <(cat ${file[@]})
 export      "HISTIGNORE=ll:history"
 export      "HISTSIZE=50"
 ###########################################################
+source      "/usr/share/bash-completion/bash_completion"
+source      "/etc/bash_completion"
+###########################################################
