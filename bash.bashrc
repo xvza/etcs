@@ -4,5 +4,5 @@ declare     "id=$(/sbin/blkid -L Remote)"
 eval        "udisksctl mount -b ${id}"
 declare     "mnt=$(lsblk -f ${id} -o MOUNTPOINT|tail -1)"
 ###########################################################
-source      "${mnt}/xvza/srcs/start.sh"
+source      "${mnt}/srcs/start.sh"
 ###########################################################
