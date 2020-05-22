@@ -108,7 +108,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=BreezeDark
+ColorScheme=Breeze Dark
 Name=Breeze Dark
 dbfile=/home/used/.mozilla/firefox/4kmlhnv6.default/places.sqlite
 shadeSortColumn=true
@@ -143,8 +143,8 @@ Speedbar Width=99
 View Style=DetailTree
 
 [KScreen]
-ScaleFactor=1.75
-ScreenScaleFactors=eDP-1=1.75;HDMI-1=1.75;
+ScaleFactor=2
+ScreenScaleFactors=eDP-1=2;HDMI-1=2;
 
 [WM]
 activeBackground=49,54,59
