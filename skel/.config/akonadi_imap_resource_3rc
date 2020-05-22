@@ -1,13 +1,13 @@
 [cache]
 DisconnectedModeEnabled=false
 IntervalCheckEnabled=false
-TrashCollection=-30
+TrashCollection=59
 TrashCollectionMigrated=true
 
 [idle]
-IdleRidPath=/INBOX,imap://yanis@usa.com@imap.mail.com/
+IdleRidPath=/INBOX,imap://yanis@dr.com@imap.mail.com/
 
 [network]
 Authentication=7
 ImapServer=imap.mail.com
-UserName=yanis@usa.com
+UserName=yanis@dr.com

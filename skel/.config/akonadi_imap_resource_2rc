@@ -5,9 +5,9 @@ TrashCollection=-30
 TrashCollectionMigrated=true
 
 [idle]
-IdleRidPath=/INBOX,imap://yanis@asia.com@imap.mail.com/
+IdleRidPath=/INBOX,imap://yanis@usa.com@imap.mail.com/
 
 [network]
 Authentication=7
 ImapServer=imap.mail.com
-UserName=yanis@asia.com
+UserName=yanis@usa.com
