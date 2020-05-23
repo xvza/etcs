@@ -1,14 +1,21 @@
-[PlasmaViews][Panel 2][Defaults]
-thickness=50
+[Notification Messages]
+really_clear_history=true
 
-[PlasmaViews][Panel 2][Horizontal3200]
-thickness=50
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=42
 
 [PlasmaViews][Panel 34][Defaults]
-thickness=50
+thickness=42
 
-[PlasmaViews][Panel 34][Horizontal3200]
-thickness=50
+[PlasmaViews][Panel 34][Horizontal1920]
+thickness=42
 
 [ScreenConnectors]
 0=eDP-1
