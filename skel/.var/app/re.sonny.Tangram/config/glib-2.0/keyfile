@@ -1,0 +1,21 @@
+[re/sonny/Tangram/instances/ce4af18dd2af4d28911a01fdf03e75f7]
+url='about:blank'
+name=''
+
+[re/sonny/Tangram]
+window-width=0
+window-height=0
+
+instances=['dddcfddaa15847848a302d190f071328', 'af6eb27688b14c82957e0623f4f68666']
+
+[re/sonny/Tangram/instances/c659fe74f5f746e48a7f2ca4ca09f059]
+url='about:blank'
+name=''
+
+[re/sonny/Tangram/instances/dddcfddaa15847848a302d190f071328]
+url='https://mega.nz/'
+name='MEGA'
+
+[re/sonny/Tangram/instances/af6eb27688b14c82957e0623f4f68666]
+url='https://github.com/'
+name='GitHub'

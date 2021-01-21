@@ -1,0 +1,5 @@
+file:///etc/skel local skel
+file:///etc/xdg local xdg
+file:///etc local etc
+file:///usr/share/icons local icons
+file:///usr/share/themes local themes
